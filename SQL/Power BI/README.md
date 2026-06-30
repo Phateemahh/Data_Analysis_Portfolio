@@ -21,4 +21,4 @@ This folder contains my Power BI dashboards and data visualization projects.
   - Power Query
   - Interactive Dashboards
   - Data Visualization
-     More projects will be added as i continue my learning journey.
+   More projects will be added as i continue my learning journey.
