@@ -20,5 +20,6 @@ This folder contains my Power BI dashboards and data visualization projects.
   - DAX Measures
   - Power Query
   - Interactive Dashboards
-  - Data Visualization. 
+  - Data Visualization
+   
    More projects will be added as i continue my learning journey.
