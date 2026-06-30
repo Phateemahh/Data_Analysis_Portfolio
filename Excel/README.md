@@ -14,6 +14,10 @@ This folder contains my Excel practice projects.
   ### HR Employee Salary Dashboard
  An interactive Excel dashboard built to analyse employee salary data.
 
+ ## Dashboard Preview
+
+ ![HR Employee Salary Dashboard](HR_Employee_Salary_Dashboard.png)
+
  **Key insights:**
  - Employee distribution by department
  - Salary analysis by department
