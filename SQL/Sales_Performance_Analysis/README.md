@@ -28,7 +28,7 @@ The dataset contains sales transactions with information such as:
 - Calculate total sales
 - Count total orders
 - Calculate average sales
-- Identify top 10 customers by purchase
+- Identify top 10 customers by purchases
 - Analyze total sales by salesperson
 - Analyze total sales by category
 - Analyze total sales by region
