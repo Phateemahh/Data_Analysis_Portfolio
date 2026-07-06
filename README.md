@@ -50,4 +50,4 @@ Welcome to my Data Analysis Portfolio! This repository contains projects i have 
 ## Contact
 
 - Github: https://github.com/Phateemahh
-- LinkedIn: https//linkedin.com/in/Fatima-Idiaghe
+- LinkedIn: https//www.linkedin.com/in/Fatima-Idiaghe
