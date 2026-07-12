@@ -96,4 +96,17 @@ The dashboard includes:
 
  ## Dashboard Preview
 
-![HR Employee Salary Dashboard](Dashboard.png)
+![HR Employee Salary Dashboard](HR_Employee_Salary_Dashboard.png)
+
+---
+
+## Files Included
+
+- HR_Employee_Dashboard.xlsx
+- HR_Employee_Dashboard.png
+- README.md
+---  
+
+## Author
+
+**Fatima Idiaghe**
