@@ -46,7 +46,7 @@ The dataset contains information on:
 - Top 10 Product by Sales
 - Interactive Date Filter
 - Region Filter
-- Categpry Filter
+- Category Filter
 - Segment Filter
 
 ---
@@ -85,6 +85,4 @@ The dataset contains information on:
 
 **Fatima**
 
-Aspiring Data Analyst passionate about transforming data intoactionable insights using Excel, SQL, Power BI, and Python.
-
-- 
+Aspiring Data Analyst passionate about transforming data into actionable insights using Excel, SQL, Power BI, and Python.
