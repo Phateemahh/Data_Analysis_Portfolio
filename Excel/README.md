@@ -102,4 +102,14 @@ The dashboard includes:
 
 ---
 
-## 
+## Files Included
+
+- HR_Employee_Dashboard.xlsx
+- HR_Employee_Dasboard.png
+- README.md
+
+---
+
+## Author
+
+**Fatima Idiaghe**
