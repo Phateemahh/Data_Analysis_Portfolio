@@ -10,8 +10,7 @@ The goal is to help business stakeholders monitor key performance indicatore (KP
 
 ## Dashboard Preview
 
-File name:
-![Executive Sales Dashboard] (Executive_Sales_Dashboard.png)
+![Executive Sales Dashboard](Executive_Sales_Dashboard.png)
 
 ---
 
