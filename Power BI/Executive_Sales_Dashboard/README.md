@@ -4,7 +4,7 @@
 
 This project is an interactive Executive Sales Dashboard built in Microsoft Power BI using the Sample Superstore dataset. The dashboard provides a high level overview of business performance by analyzing sales, profit, customers, and product performance.
 
-The goal is to help business stakeholders monitor key performance indicatore (KPIs), identify sales trends, and make data-driven decisions through interactive visualizations.
+The goal is to help business stakeholders monitor key performance indicators (KPIs), identify sales trends, and make data-driven decisions through interactive visualizations.
 
 ---
 
