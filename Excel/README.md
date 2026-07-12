@@ -98,7 +98,11 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-![HR Employee Salary Dashboard](HR_Employee_Salary_Dashboard.png)
+### Overview
+![Dashboard Overview](Dashboard_Overview.png)
+
+### Details
+![Dashboard Details](Dashboard_Details.png)
 
 ---
 
