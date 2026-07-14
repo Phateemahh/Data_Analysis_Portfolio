@@ -81,7 +81,7 @@ The dataset was cleaned and prepared in Microsoft Excel before analysis.
 
 
 ## Dashboard Preview
-![Budget Performance Dashboard](Budget_vs_Actual_Dashboard.png)
+![Budget_vs_Actual_Dashboard](Budget_vs_Actual_Dashboard.png)
 
 ---
 
