@@ -62,12 +62,13 @@ The dashboard provides a summary of the major spending trends and highlights are
 
 ---
 
-## Dataset
+## Workbook Structure
 The data used for this project is included within the excel workbook. The workbook contains seperate worksheets for:
 
 - **Raw Data:** Original financial dataset before cleaning.
-- **Cleaned Data:** Data prepared through cleaningand formatting for analysis.
-- **Dashboard:** Interactive dashboard built usingPivot Tables, Pivot Charts, KPI cards, and Slicers.
+- **Cleaned Data:** Data prepared through cleaning and formatting for analysis.
+- **Pivot tables:** Supporting Pivot Tables used to build the dashboard visualizations.
+- **Dashboard:** Interactive dashboard built using Pivot Tables, Pivot Charts, KPI cards, and Slicers.
 
 ## Data Preparation
 
@@ -90,6 +91,7 @@ The dataset was cleaned and prepared in Microsoft Excel before analysis.
 - Budget_vs_Actual_Dashboard.xlsx
    - Raw Data
    - Cleaned Data
+   - Pivot Tables
    - Dashboard
 - Budget_vs_Actual_Dashboard.png
 - README.md
