@@ -124,8 +124,10 @@ The SQL analyses answered the following business questions:
 
 ## Project Files
 
-- RetailIntentory_Analysis.cvs
+- RetailIntentory_Analysis.sql
+- RetailInventory_Clean.cvs
 - README.md
+- Screenshots of SQL queries and results
 
 ---
 
